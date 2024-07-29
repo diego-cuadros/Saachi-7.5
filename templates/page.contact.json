@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "page_batcVy": {
+          "type": "page",
+          "settings": {
+            "page_text": "contact-us"
+          }
+        }
+      },
+      "block_order": [
+        "page_batcVy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich-text",
+    "form"
+  ]
+}

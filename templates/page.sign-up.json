@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "newsletter_yFThU3": {
+      "type": "newsletter",
+      "blocks": {
+        "title_ME8tmx": {
+          "type": "title",
+          "settings": {
+            "title": "Welcome to the SAACHI community",
+            "heading_size": "h1"
+          }
+        },
+        "text_m3Ythm": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>AS A TOKEN OF OUR APPRECIATION,<br\/>HERE’S AN EXCLUSIVE OFFER JUST FOR YOU<\/h3>"
+          }
+        },
+        "title_UxXN7E": {
+          "type": "title",
+          "settings": {
+            "title": "20% OFF your entire purchase",
+            "heading_size": "h2"
+          }
+        },
+        "form_nyED6j": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_ME8tmx",
+        "text_m3Ythm",
+        "title_UxXN7E",
+        "form_nyED6j"
+      ],
+      "settings": {
+        "align_text": "left",
+        "image": "shopify:\/\/shop_images\/file_53.jpg",
+        "image_width": "50",
+        "image_mask": "none",
+        "image_position": "left",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter_yFThU3"
+  ]
+}

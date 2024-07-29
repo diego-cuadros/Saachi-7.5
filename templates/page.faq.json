@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_nCVtKB": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Frequently asked questions",
+            "text": "<h5>If you have any additional questions please reach out to contactus@saachistyle.com and we will get back you within 1-2 business days.<\/h5>",
+            "align_text": "left"
+          }
+        },
+        "faq-0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>We're Here for You!<\/strong><\/p><p>Have a question about your order, a product, or just need some styling advice? Our friendly customer service team is here to help!<\/p><ul><li><strong>Call us:<\/strong> (914) 220-8656 (Monday-Friday, 9am-5pm EST)<\/li><li><strong>Email us:<\/strong> contactus@saachistyle.com<\/li><li><strong>Social media:<\/strong> We're also happy to chat on Facebook or Instagram DM!<\/li><\/ul><p><strong>Wholesale inquiries:<\/strong>  For wholesale opportunities, please reach out to sales@inthingscorp.com.<\/p>",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "How Long Will It Take My Order to Ship?",
+            "text": "<p>SAACHI ships orders from our New York warehouse on business days, (Monday through Friday).  Orders placed with free standard shipping are usually shipped within 1-3 business days (M-F) of purchase, unless otherwise noted.<\/p>"
+          }
+        },
+        "question_mwcqK6": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Place an Order?",
+            "text": "<p>Placing an order on SAACHI Style is easy! Just follow these steps:<\/p><ol><li>Click the <strong>\"Shop\"<\/strong> tab on the top banner and choose your desired category. From there, you can scroll through the collection or use filters to find what you're looking for.<\/li><li>When you see a style you love, simply click on the photo to view the product page. There, you'll find a detailed description and an <strong>\"Add to Cart\" <\/strong>button.<\/li><li>Once you've added everything to your cart, click the <strong>\"Checkout\"<\/strong> button. You'll then be able to securely enter your credit card information and complete your purchase.<\/li><\/ol>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "Where is SAACHI located?",
+            "text": "<p>SAACHI's operation is located in White Plains, NY, a suburb of New York City.  Here we handle all operations, including design, customer service, shipping and more.  <\/p>"
+          }
+        },
+        "question_tyT6Ag": {
+          "type": "question",
+          "settings": {
+            "title": "What is SAACHI's Return Policy?",
+            "text": "<p>SAACHI wants to make sure our customers are completely satisfied with their products.  All non-customizable items are eligible for full refund within 20 days.  For inquiries please reach out to contactus@saachistyle.com  and provide your order number.  Please allow 1-3 business days to receive a shipping label.<br\/><\/p>"
+          }
+        },
+        "question_9iXVbQ": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Receive Free Shipping?",
+            "text": "<p>All orders over $40 are automatically eligible for free standard shipping.  At shipping page you can choose \"FREE STANDARD SHIPPING\".<\/p>"
+          }
+        },
+        "question_k3nFmD": {
+          "type": "question",
+          "settings": {
+            "title": "Where Do I Enter a Coupon Code \/ Gift Card?",
+            "text": "<p><strong>Shopping on Desktop:<\/strong>Coupon and Gift Card Codes are located at the first step of the checkout process on the right hand side of the checkout screen.<br\/><br\/><strong>Shopping on Mobile:<\/strong>  Make sure the \"Show Order Summary\" tab is open and you can enter the gift card or discount code there. <\/p>"
+          }
+        },
+        "question_nVHgTG": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Ship Internationally? ",
+            "text": "<p>Absolutely! We're happy to bring SAACHI to customers around the world. We offer worldwide international shipping.<\/p>"
+          }
+        },
+        "question_94MCa8": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Know If My Order Was Shipped?",
+            "text": "<p>You'll be sure to know when your order is on its way - you'll receive an email notification with a tracking number once your SAACHI order ships.<\/p>"
+          }
+        },
+        "question_HMDizY": {
+          "type": "question",
+          "settings": {
+            "title": "How Can I get 20% Off My First Purchase?",
+            "text": "<p>Get 20% off your first purchase when you <a href=\"https:\/\/saachistyle.com\/pages\/sign-up-for-our-newsletter-1\" target=\"_blank\" title=\"SAACHI Style - Email Newsletter Sign Up\">sign up<\/a> for our email newsletter! It's a great way to snag a discount on your first SAACHI Style purchase. <\/p><p><strong>In addition to the discount, you'll also be subscribed to receive updates on:<\/strong><\/p><ul><li><strong>Exclusive sales and promotions<\/strong><\/li><li><strong>The latest fashion trends<\/strong><\/li><li><strong>Styling tips and inspiration<\/strong><\/li><\/ul>"
+          }
+        },
+        "question_VgpwWU": {
+          "type": "question",
+          "settings": {
+            "title": "Can I Make a Boutique Purchase Return Online?",
+            "text": "<p>No, unfortunately, online returns are only available for items purchased directly from the SAACHI Style website. Boutique purchases have separate return policies handled by each individual boutique location. We recommend contacting the boutique where you purchased to inquire about their return policy.<\/p>"
+          }
+        },
+        "question_czjHWe": {
+          "type": "question",
+          "settings": {
+            "title": "What Do I Need To Know About Ordering A Customized Piece?",
+            "text": "<p>Customized pieces are handcrafted in India and take from 4-8 weeks.  If you are ordering a customized mule, we offer a variety of options to help create the perfect shoe for you.  Customized shoes are non-refundable and non-returnable.<\/p>"
+          }
+        },
+        "question_EG6hJU": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Support Any Causes?",
+            "text": "<p>Yes, SAACHI is committed to social responsibility, and we're proud to support the <a href=\"https:\/\/www.ekal.org\/us\" target=\"_blank\" title=\"Ekal Foundation - SAACHI Style\"> Ekal Foundation<\/a>. Their mission is to provide education to children in rural India, and through our partnership, we contribute to empowering communities, promoting literacy, and fostering equal opportunities for all.<\/p>"
+          }
+        },
+        "question_PLRYit": {
+          "type": "question",
+          "settings": {
+            "title": "I’m an Influencer\/Blogger. Can I Partner With You?",
+            "text": "<p>We're always looking for creative collaborators! SAACHI empowers women through fashion, and we value partnerships with influencers and bloggers who share our vision. Head over to our <a href=\"https:\/\/saachistyle.com\/pages\/collabs\" target=\"_blank\" title=\"SAACHI Style - Collabs - Affiliate Programme\">Affiliate Programme<\/a> page to learn more about how you can join our community.<\/p>"
+          }
+        },
+        "question_mMFNBx": {
+          "type": "question",
+          "settings": {
+            "title": "How Can I Get In Touch With You?",
+            "text": "<p>Feel free to <a href=\"https:\/\/saachistyle.com\/pages\/contact-us\" target=\"_blank\" title=\"SAACHI Style - Contact Us\">contact us<\/a> via our friendly customer service team. We're available Monday through Friday, 9 am to 5 pm EST:<\/p><ul><li><strong>Call us:<\/strong> (914) 220-8656<\/li><li><strong>Email us:<\/strong> contactus@saachistyle.com<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_nCVtKB",
+        "faq-0",
+        "faq-1",
+        "question_mwcqK6",
+        "faq-2",
+        "question_tyT6Ag",
+        "question_9iXVbQ",
+        "question_k3nFmD",
+        "question_nVHgTG",
+        "question_94MCa8",
+        "question_HMDizY",
+        "question_VgpwWU",
+        "question_czjHWe",
+        "question_EG6hJU",
+        "question_PLRYit",
+        "question_mMFNBx"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}

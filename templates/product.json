@@ -1,0 +1,215 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "vitals_wishlist_button_KnbNnx": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/wishlist-button\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "trust_badge_V6Dx6x": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/Untitled_design_1.gif"
+          }
+        },
+        "custom_sku_8LYJ3d": {
+          "type": "custom-sku",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": true
+          }
+        },
+        "tab_W6eiHH": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping and returns",
+            "content": "",
+            "page": "shipping-returns"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Press",
+            "content": "",
+            "page": "press"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        },
+        "match_my_outfit_9D6nxK": {
+          "type": "match_my_outfit",
+          "settings": {
+            "mmof_title": "Suggested looks:",
+            "mmof_product_list1": "{{ product.metafields.custom.products_for_slide_1.value }}",
+            "mmof_product_list2": "{{ product.metafields.custom.products_for_slide_2.value }}",
+            "mmof_product_list3": "{{ product.metafields.custom.products_for_slide_3.value }}",
+            "mmof_product_list4": "{{ product.metafields.custom.products_for_slide_4.value }}",
+            "mmof_product_list5": "{{ product.metafields.custom.products_for_slide_5.value }}",
+            "mmof_product_list6": "{{ product.metafields.custom.products_for_slide_6.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "vitals_wishlist_button_KnbNnx",
+        "buy_buttons",
+        "trust_badge_V6Dx6x",
+        "custom_sku_8LYJ3d",
+        "description",
+        "contact",
+        "tab_W6eiHH",
+        "tab",
+        "share",
+        "match_my_outfit_9D6nxK"
+      ],
+      "settings": {
+        "use_custom_gallery": true,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "testimonials",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

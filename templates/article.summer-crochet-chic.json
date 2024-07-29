@@ -1,0 +1,241 @@
+{
+  "sections": {
+    "slideshow_mVRWwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_J4RGcf": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Discover this summer's hottest trend",
+            "title": "Summer Crochet Chic",
+            "title_size": 80,
+            "subheading": "By Carly Giacoio",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/RS54438_806944.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_J4RGcf"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cRTUgx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mc6gYD": {
+          "type": "heading",
+          "settings": {
+            "title": "Embrace Summer Chic with Crochet Jackets & Toppers"
+          }
+        },
+        "text_9dckrD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>As the summer sun warms our skin and the days grow longer, it's the perfect time to embrace light, airy garments that celebrate the season. Here at SAACHI, we believe that crochet is more than just a nostalgic craft—it's a timeless design element that injects a touch of effortless elegance into your summer wardrobe.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mc6gYD",
+        "text_9dckrD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Rk4tiG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RS68643_807096-7.jpg",
+        "image_mask": "portrait",
+        "image2": "shopify:\/\/shop_images\/RS68647_807096_900128-1_7149f3af-ee60-4ee1-8d35-e39da57ca634.jpg",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "A Touch of Sophistication",
+        "text": "<p>Crochet toppers are the current trends for your summer layering needs. These versatile pieces offer coverage for cooler evenings or breezy days by the beach. Imagine yourself strolling along the boardwalk, the intricate crochet details of your topper catching the sunlight and adding a delightful textural dimension to your outfit. This perfect layering piece adds a timeless technique to a modern fashion world.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Q8naqW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RS68641_807081-6.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/RS70702_807307.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Effortless Layering",
+        "text": "<p>A light crochet jacket is the ideal summer companion for those seeking more coverage. Picture yourself dining outdoors on a cool summer evening; the delicate crochet knit adds breathable luxury to your ensemble. The intricate patterns and design details elevate a simple tank top and shorts into a polished and put-together summer look.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JXtJDB": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RS54248_806959.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/ABC250-ezgif.com-webp-to-jpg-converter.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Timeless Style for Every Woman",
+        "text": "<p>The beauty of crochet is the craft’s ability to flatter every figure, offering a range of silhouettes, textures, and colors that complement your unique style. Whether you prefer a classic white topper or a vibrant, eye-catching jacket, you'll find the perfect piece to add a touch of summer flair to your wardrobe.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6gepnh": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Art of Crochet",
+        "text": "<p>Crochet is not just a technique; it's an art form. Each stitch tells a story, creating a tapestry of texture and design. When you wear a SAACHI crochet topper or jacket, you're not just wearing a garment but embracing a rich heritage of craftsmanship and timeless design. This connection to our brand's values makes you feel part of a larger fashion community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_wWNjrC": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Embrace Your Summer Style with SAACHI",
+        "text": "<p>This summer, elevate your look with the exquisite elegance of crochet from SAACHI. Our selection of delightful toppers and light jackets promises to add a touch of sophisticated charm to your warm-weather wardrobe. So, explore our collection, discover the perfect piece for your unique style, and enter summer with confidence and grace. Let our crochet collection inspire you to improve your fashion game this season.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_7a3GD7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nF6TnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_18.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_XbR369": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Carly Giacoio<\/h2><p>Copywriter<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nF6TnD",
+        "liquid_XbR369"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "You may also like",
+        "blog": "saachi-blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_mVRWwf",
+    "rich_text_cRTUgx",
+    "text_and_image_Rk4tiG",
+    "text_and_image_Q8naqW",
+    "text_and_image_JXtJDB",
+    "text_and_image_6gepnh",
+    "text_and_image_wWNjrC",
+    "advanced_content_7a3GD7",
+    "main",
+    "blog-posts"
+  ]
+}

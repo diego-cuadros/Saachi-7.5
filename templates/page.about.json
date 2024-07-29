@@ -1,0 +1,189 @@
+{
+  "sections": {
+    "text_and_image_bMeget": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/frame_427318181.webp",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Our Ethos",
+        "title": "Authenticity, Craftsmanship, and Cultural Richness",
+        "text": "<p>At SAACHI, authenticity isn’t just a buzzword; it’s the cornerstone of everything we do. Led by our president and head designer, Rose, our team is dedicated to upholding the true essence of handmade clothing and accessories. Rose’s relentless pursuit of quality takes her across continents to the bustling fabric markets of India and China. She handpicks the finest materials here, explores intricate printmaking techniques, and delves into diverse embroidery traditions. Each piece crafted by SAACHI is a testament to old-world luxury and our unwavering commitment to quality. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_DmUXJb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rs54770_img_1454.webp",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Making an Impact",
+        "title": "Preserving Tradition, Empowering Artisans",
+        "text": "<p>SAACHI is not just a fashion brand; it's a beacon of hope for centuries-old traditions in India. We champion these ancestral techniques and provide a platform for skilled artisans to showcase their heritage. With every purchase, you acquire a meticulously crafted work of art and contribute to preserving these timeless traditions and the livelihoods of artisans who uphold them. By investing in these communities, we honor their legacy and pave the way for a brighter, more sustainable future. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_video_text_FDU7zh": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/youtu.be\/qu4__DZ9eks",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 750
+      }
+    },
+    "text_and_image_UzWYBb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/frame_427318178.webp",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "Supporting",
+        "title": "Education with the Ekal Foundation",
+        "text": "<p>Our dedication extends beyond fashion; it encompasses a profound commitment to social responsibility. As proud supporters of the Ekal Foundation, we stand alongside their noble mission to provide education to children in rural India. Through their contributions, we strive to empower communities, promote literacy, and foster equal opportunities for all.<\/p>",
+        "button_label": "Read more",
+        "button_link": "https:\/\/www.ekal.org\/us",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_zHKC6F": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/anthro_1669383902363_webp.webp",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/helloloveokphoto2desktop_1681759761318_jpg.webp",
+        "image2_mask": "none",
+        "subtitle": "Boutiques and Stores",
+        "title": "Across the Nation",
+        "text": "<p>Explore SAACHI’s renowned collection, embraced by fashion lovers nationwide. Our distinct style adorns shelves in over 1,500 locations nationwide, from boutiques to department stores. Dive into our curated range and immerse yourself in the timeless elegance and modern allure of SAACHI.<\/p>",
+        "button_label": "Shop online",
+        "button_link": "shopify:\/\/collections\/new-arrivals",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_4HRrPJ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/frame_1029.webp",
+        "image_mask": "landscape",
+        "image2": "shopify:\/\/shop_images\/mgzn_1.webp",
+        "image2_mask": "none",
+        "subtitle": "Press",
+        "title": "Highlights",
+        "text": "",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/pages\/press",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "newsletter_nBNQDf": {
+      "type": "newsletter",
+      "blocks": {
+        "title_QLMhjF": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "heading_size": "h2"
+          }
+        },
+        "text_Wdz66F": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form_BVPA6a": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_QLMhjF",
+        "text_Wdz66F",
+        "form_BVPA6a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_and_image_bMeget",
+    "text_and_image_DmUXJb",
+    "background_video_text_FDU7zh",
+    "text_and_image_UzWYBb",
+    "text_and_image_zHKC6F",
+    "text_and_image_4HRrPJ",
+    "newsletter_nBNQDf",
+    "form"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "sections": {
+    "advanced_content_7a3GD7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nF6TnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_18.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_XbR369": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Carly Giacoio<\/h2>\n<p>The author<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nF6TnD",
+        "liquid_XbR369"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_mVRWwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zb9bdB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BEST STYLE TIPS FOR A SUMMER GETAWAY",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/file_54.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zb9bdB"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cRTUgx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mc6gYD": {
+          "type": "heading",
+          "settings": {
+            "title": "BEST STYLE TIPS FOR A SUMMER GETAWAY"
+          }
+        },
+        "text_9dckrD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Summer getaways are all about soaking up the sun, making memories, and looking fabulous while you do it! But with so many summer styles for women,<a href=\"https:\/\/saachistyle.com\/collections\/resort\" target=\"_blank\" title=\"SAACHI Style - Resort Collection\">packing for a vacation<\/a>can sometimes feel like a chore. Fear not;<a href=\"https:\/\/saachistyle.com\/collections\/new-arrivals\" target=\"_blank\" title=\"SAACHI Style - 2024 New Arrivals\"><strong>SAACHI <\/strong><\/a><strong>  is here to help with our top tips for an effortless<\/strong><a href=\"https:\/\/saachistyle.com\/blogs\/saachi-blog\/5-ways-to-style-a-kimono-this-summer\" target=\"_blank\" title=\"SAACHI Style Blog - 5 Ways to Style a Kimono This Summer\"><strong>summer style<\/strong><\/a><strong>that is both practical and chic.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mc6gYD",
+        "text_9dckrD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Rk4tiG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/file_55_480x480_9e830181-12b2-45e7-8501-cf61c7549fa7.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "EFFORTLESS ELEGANCE WITH JEWELRY SETS",
+        "text": "<p>Packing light is critical, and our stunning<a href=\"https:\/\/saachistyle.com\/collections\/jewelry-sets\" target=\"_blank\" title=\"SAACHI Style - Jewelry Sets\">SAACHI jewelry sets<\/a>are here to answer your accessory woes.<strong>With our matching<\/strong><a href=\"https:\/\/saachistyle.com\/products\/mini-druzy-set?_pos=1&_sid=cb7285c16&_ss=r&variant=43884291096793\" target=\"_blank\" title=\"SAACHI Style - Mini Druzy Earring And Necklace Set\"><strong>earrings<\/strong><\/a><strong>and<\/strong><a href=\"https:\/\/saachistyle.com\/products\/mojave-mini-raindrop-set?_pos=1&_sid=a1d38fd8c&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Mojave Mini Raindrop Earring And Necklace Set\"><strong>necklaces<\/strong><\/a><strong>, you can effortlessly elevate your beachside look in seconds.<\/strong>And the best part? Our<a href=\"https:\/\/saachistyle.com\/blogs\/saachi-blog\/pearl-month-celebrate-timeless-elegance-this-june\" target=\"_blank\" title=\"SAACHI Style Blog - Pearl Month: Celebrate Timeless Elegance This June\">jewelry<\/a>comes in vibrant colors and unique styles, adding a touch of excitement to your summer looks.<strong>There is no need to worry about mismatched pieces—our<\/strong><a href=\"https:\/\/saachistyle.com\/products\/mini-gemstone-earring-necklace-set?_pos=1&_sid=2b58cec86&_ss=r&variant=43884291555545\" target=\"_blank\" title=\"SAACHI Style - Mini Gemstone Earring And Necklace Set\"><strong>sets<\/strong><\/a><strong>create a cohesive, stylish look, making your vacation packing a breeze.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Q8naqW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/file_56_480x480_7f14b568-f29b-4e37-ba1d-26fad75dc4f1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "LAYERING MAGIC WITH VERSATILE KIMONOS",
+        "text": "<p>Summer weather can be fickle, with scorching days turning into breezy evenings. That's why layering is your best strategy! <strong>Our stunning<\/strong><a href=\"https:\/\/saachistyle.com\/collections\/kimonos\" target=\"_blank\" title=\"SAACHI Style - Women's Kimono Collection\"><strong>kimonos<\/strong><\/a><strong>, available in silhouettes ranging from<\/strong><a href=\"https:\/\/saachistyle.com\/products\/sheer-botanical-geo-lace-kimono?_pos=1&_sid=0a6c7888b&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Sheet Lace Floral Kimono\"><strong>lace<\/strong><\/a><strong>to<\/strong><a href=\"https:\/\/saachistyle.com\/products\/turkish-towel-robe?_pos=1&_sid=0c664e4e8&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Turkish Towel Cover Up Kimono\"><strong>cotton<\/strong><\/a><strong>to<\/strong><a href=\"https:\/\/saachistyle.com\/products\/ombre-tiered-sheer-kimono?_pos=1&_sid=b8b311299&_ss=r&variant=43905050837209\" target=\"_blank\" title=\"SAACHI Style - Women's Ombre Tiered Sheer Kimono\"><strong>sheer<\/strong><\/a><strong>, are the perfect layering piece.<\/strong>They keep you cool in the heat, offer warmth in a breeze, and add a touch of elegance to any outfit. Wear a<a href=\"https:\/\/saachistyle.com\/products\/costa-cover-up?_pos=4&_sid=60d17395a&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Costa Crochet Kimono Cover Up\">kimono<\/a>over a swimsuit as a beach cover-up, layer it over a dress for dinner, or throw one on for a stylish piece over jeans.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JXtJDB": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/file_57_480x480_af987fc8-9a23-44ee-8371-75af68885e26.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "BANDANAS: THE ULTIMATE MULTITASKER",
+        "text": "<p>The humble<a href=\"https:\/\/saachistyle.com\/blogs\/saachi-blog\/how-to-style-a-bandana\" target=\"_blank\" title=\"SAACHI Style Blog - How To Style A Bandana\">bandana<\/a>is a summer must-have, and for good reason! From<a href=\"https:\/\/saachistyle.com\/products\/paisley-motif-bandana?_pos=1&_psq=paisley+print&_ss=e&_v=1.0\" target=\"_blank\" title=\"SAACHI Style - Women's Paisley Print Bandana\">paisley print bandanas<\/a>to<a href=\"https:\/\/saachistyle.com\/products\/oversized-cotton-bandana?_pos=1&_sid=fa045d46e&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Oversized Cotton Bandana\">oversized cotton bandanas<\/a>,<strong>tie our versatile<\/strong><a href=\"https:\/\/saachistyle.com\/collections\/bandana\" target=\"_blank\" title=\"SAACHI Style - Women's Bandana Collection\"><strong>SAACHI bandanas<\/strong><\/a><strong>to your beach bag, wear them as a chic headband to tame your hair during hot days or breezy evenings, or even transform them into a<\/strong><a href=\"https:\/\/saachistyle.com\/products\/embellished-paisley-bandana?_pos=1&_psq=paisley&_ss=e&_v=1.0\" target=\"_blank\" title=\"SAACHI Style - Women's Paisley Charm Bandana\"><strong>sophisticated neck tie<\/strong><\/a><strong> for a touch of evening elegance.<\/strong>Small but mighty, a bandana can create a bold statement for any summer outfit. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pwEyUw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/file_58_480x480_5e167a16-2c69-4f8b-a75f-44b48afffcb0.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "LINEN LOVE: YOUR SUMMER STAPLE",
+        "text": "<p><a href=\"https:\/\/saachistyle.com\/search?q=linen&options%5Bprefix%5D=last\" target=\"_blank\" title=\"SAACHI Style - Women's Linen Collection\"><strong>Linen<\/strong><\/a><strong>is the ultimate summer fabric.Lightweight, breathable, and naturally stylish, it keeps you cool and comfortable during your summer getaway.<\/strong>SAACHI offers a variety of linen pieces to help you create effortlessly chic looks. Our<a href=\"https:\/\/saachistyle.com\/products\/oversized-striped-linen-cotton-shirt?_pos=1&_sid=ea45f12fe&_ss=r&variant=43008724041945\" target=\"_blank\" title=\"SAACHI Style - Women's Oversized Striped Linen Cotton Shirt\">linen shirts<\/a>and<a href=\"https:\/\/saachistyle.com\/products\/reverie-plaid-kimono-goldenrod-1?_pos=1&_sid=ede49b88a&_ss=r&variant=32986020413576\" target=\"_blank\" title=\"SAACHI Style - Women's Linen Cotton Plaid Kimono\">kimonos<\/a>are perfect for layering and can be worn as a<a href=\"https:\/\/saachistyle.com\/products\/mabel-chevron-scarf?_pos=23&_sid=19e25548b&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Mabel Chevron Scarf\">beach cover-up<\/a>or a open with a dress for a breathable summer outfit. Another perfect accessory is a beautiful<a href=\"https:\/\/saachistyle.com\/products\/linen-weave-fringes-scarf?_pos=1&_sid=c37ae7c1f&_ss=r\" target=\"_blank\" title=\"SAACHI Style - Women's Linen Weave Fringes Scarf\">linen scarf<\/a>—ideal for a romantic summer evening dinner.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_cJ9YfX": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/file_60_480x480_1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "EMBRACE THE SAACHI STYLE STATEMENT THIS SUMMER",
+        "text": "<p><strong>With these tips and our stunning collection of<\/strong><a href=\"https:\/\/saachistyle.com\/collections\/jewelry-sets\" target=\"_blank\" title=\"SAACHI Style - Women's Jewelry Sets\"><strong>jewelry sets<\/strong><\/a><strong>,<\/strong><a href=\"https:\/\/saachistyle.com\/collections\/kimonos\" target=\"_blank\" title=\"SAACHI Style - Women's Kimono Collection\"><strong>kimonos<\/strong><\/a><strong>,<\/strong><a href=\"https:\/\/saachistyle.com\/collections\/bandana\" target=\"_blank\" title=\"SAACHI Style - Women's Bandana Collection\"><strong>bandanas<\/strong><\/a><strong>, and<\/strong><a href=\"https:\/\/saachistyle.com\/search?q=linen&_pos=1&_psq=linen&_ss=e&_v=1.0\" target=\"_blank\" title=\"SAACHI Style - Women's Linen Collection\"><strong>linen apparel<\/strong><\/a><strong>, and more, you can pack a stylish and versatile wardrobe for your next summer adventure.<\/strong>Remember,<strong>summer style is about feeling confident and comfortable in your skin.<\/strong>Embrace the sunshine, explore new places, and look fabulous while you do it with SAACHI.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "You may also like",
+        "blog": "saachi-blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "advanced_content_7a3GD7",
+    "slideshow_mVRWwf",
+    "rich_text_cRTUgx",
+    "text_and_image_Rk4tiG",
+    "text_and_image_Q8naqW",
+    "text_and_image_JXtJDB",
+    "text_and_image_pwEyUw",
+    "text_and_image_cJ9YfX",
+    "main",
+    "blog-posts"
+  ]
+}

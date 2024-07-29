@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1718135380eea2105b": {
+      "type": "apps",
+      "blocks": {
+        "odyssey_3d_experience_LLAF3M": {
+          "type": "shopify:\/\/apps\/odyssey\/blocks\/3d_experience\/62a4193c-b86a-4818-9b0a-bb9a1930194f",
+          "settings": {
+            "experience_height": 100,
+            "experience_width": 100,
+            "experience_margin_top": 0,
+            "experience_margin_bottom": 0,
+            "bg_color": "#9c9c9c",
+            "button_text": "Enter Our 3D Experience",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#989796",
+            "button_padding_x": 24,
+            "button_padding_y": 12
+          }
+        }
+      },
+      "block_order": [
+        "odyssey_3d_experience_LLAF3M"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "newsletter_yFThU3": {
+      "type": "newsletter",
+      "blocks": {
+        "title_ME8tmx": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "heading_size": "h2"
+          }
+        },
+        "text_m3Ythm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form_nyED6j": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_ME8tmx",
+        "text_m3Ythm",
+        "form_nyED6j"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1718135380eea2105b",
+    "newsletter_yFThU3"
+  ]
+}

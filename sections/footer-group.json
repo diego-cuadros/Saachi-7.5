@@ -1,0 +1,126 @@
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1",
+        "footer-promotions-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "hide_homepage": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "logo_social",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/saachi-logo.svg",
+            "desktop_logo_height": 28,
+            "container_width": 15
+          }
+        },
+        "footer-1": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "customer-care",
+            "container_width": 20
+          }
+        },
+        "menu_c9g3KE": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "information",
+            "container_width": 17
+          }
+        },
+        "custom_KPiDhj": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "Contact us",
+            "text": "<p><a href=\"tel:914-220-8656\" title=\"Phone number\"><strong>914-220-8656<\/strong><\/a><\/p><p>E-mail:<br\/><a href=\"mailto:contactus@saachistyle.com\" title=\"e-mail link\">contactus@saachistyle.com<\/a><\/p><p>Monday - Friday<br\/>9AM - 5PM EST<\/p><p><a href=\"https:\/\/maps.app.goo.gl\/EYTBxHFEhL8BQoFa7\" title=\"map link\">56 Lafayette Ave.<br\/>White Plains, NY 10603<\/a><\/p>",
+            "container_width": 17
+          }
+        },
+        "footer2": {
+          "type": "newsletter",
+          "settings": {
+            "show_footer_title": true,
+            "title": "Sign up and save",
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+            "container_width": 26
+          }
+        },
+        "follow_shop_cta_XaAjVP": {
+          "type": "follow_shop_cta",
+          "settings": {
+            "container_width": 25
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "menu_c9g3KE",
+        "custom_KPiDhj",
+        "footer2",
+        "follow_shop_cta_XaAjVP"
+      ],
+      "settings": {
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false,
+        "show_payment_icons": true,
+        "show_copyright": true,
+        "copyright_text": "Operated by In-Things"
+      }
+    }
+  },
+  "order": [
+    "footer-promotions",
+    "footer"
+  ]
+}

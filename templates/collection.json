@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "scrolling_text_MkApLg": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "WEDDING COLLECTION IS ACTIVE NOW",
+        "link": "shopify:\/\/collections\/bridal-collection",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 250
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "enable": true,
+        "collection_image_enable": false,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Subscribe and save 20%",
+            "text": "",
+            "link": "shopify:\/\/pages\/sign-up-for-our-newsletter-1",
+            "label": "SIGN UP",
+            "color_tint": "#dd654b",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "banner"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": true
+          }
+        },
+        "collection_description_HHFY9a": {
+          "type": "collection_description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subcollections",
+        "product_grid",
+        "collection_description_HHFY9a"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "drawer",
+        "enable_color_swatches": true,
+        "enable_swatch_labels": true,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "scrolling_text_MkApLg",
+    "collection-header",
+    "promo-grid",
+    "main-collection"
+  ]
+}

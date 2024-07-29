@@ -1,0 +1,216 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow_i8KMQL": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rrNy6a": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FEATURE OF THE MONTH",
+            "title": "MULTICOLORED CROCHET BELL SLEEVE SHORT JACKET",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Untitled_20.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rrNy6a"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_rgaBQr": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rs77603_807547_eob_03_1.webp",
+        "image_mask": "splat-2",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "Unique Design",
+        "text": "<p>This hand-crocheted open jacket flaunts one-of-a-kind multicolored bell sleeves for an eye-catching and effortlessly stylish silhouette.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_9kLxRa": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_49.webp",
+        "image_mask": "rounded-top",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Comfy Crochet",
+        "text": "<p>With a scalloped border and dainty crochet loops, this jacket offers ample breathability and comfort<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_BpRmVD": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_50.webp",
+        "image_mask": "splat-2",
+        "image2": "shopify:\/\/shop_images\/image_48.webp",
+        "image2_mask": "splat-1",
+        "subtitle": "",
+        "title": "Versatility Redefined",
+        "text": "<p>Light and airy, this crochet jacket is perfect for layering over a bathing suit, dress, or tank for a hint of boho flair.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_gyBKra": {
+      "type": "featured-product",
+      "blocks": {
+        "price_rUNHMg": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_gjYHkx": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "sales_point_payaAj": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "One size — fits all"
+          }
+        },
+        "variant_picker_mJXmgp": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "buy_buttons_dwdTn9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_rUNHMg",
+        "description_gjYHkx",
+        "sales_point_payaAj",
+        "variant_picker_mJXmgp",
+        "buy_buttons_dwdTn9"
+      ],
+      "settings": {
+        "featured_product": "multicolored-crochet-bell-sleeve-short-jacket",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "newsletter_yFThU3": {
+      "type": "newsletter",
+      "blocks": {
+        "title_ME8tmx": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "heading_size": "h2"
+          }
+        },
+        "text_m3Ythm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form_nyED6j": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_ME8tmx",
+        "text_m3Ythm",
+        "form_nyED6j"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_i8KMQL",
+    "text_and_image_rgaBQr",
+    "text_and_image_9kLxRa",
+    "text_and_image_BpRmVD",
+    "featured_product_gyBKra",
+    "newsletter_yFThU3"
+  ]
+}

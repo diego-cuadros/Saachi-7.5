@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "newsletter_BYMzjF": {
+      "type": "newsletter",
+      "blocks": {
+        "title_6iQbwc": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "heading_size": "h2"
+          }
+        },
+        "text_EYV4nN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form_93MX8X": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_6iQbwc",
+        "text_EYV4nN",
+        "form_93MX8X"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recently-viewed",
+    "newsletter_BYMzjF"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "sections": {
+    "advanced_content_7a3GD7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nF6TnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_18.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_XbR369": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Carly Giacoio<\/h2>\n<p>The author<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nF6TnD",
+        "liquid_XbR369"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_mVRWwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zb9bdB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "",
+            "link_2": "shopify:\/\/pages\/best-sellers",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/RS49999_IMG_6779.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zb9bdB"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cRTUgx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mc6gYD": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_9dckrD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mc6gYD",
+        "text_9dckrD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Rk4tiG": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Q8naqW": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JXtJDB": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "You may also like",
+        "blog": "saachi-blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "advanced_content_7a3GD7",
+    "slideshow_mVRWwf",
+    "rich_text_cRTUgx",
+    "text_and_image_Rk4tiG",
+    "text_and_image_Q8naqW",
+    "text_and_image_JXtJDB",
+    "main",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "slideshow_mVRWwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zb9bdB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_J4RGcf": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "And big, \nbeautiful imagery",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "cardigans",
+            "link_2": "shopify:\/\/collections\/cardigans",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/RS75412__MG_7640-1_1_1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zb9bdB",
+        "image_J4RGcf"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_7a3GD7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nF6TnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/frame_26_844e40e7-7a8e-409f-afbd-374471162268.webp",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_XbR369": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Carly Giacio<\/h2>\n<p>The author<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nF6TnD",
+        "liquid_XbR369"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cRTUgx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mc6gYD": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_9dckrD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mc6gYD",
+        "text_9dckrD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Rk4tiG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6a83e9361a37ae810da5434d22087d14.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Q8naqW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RS74884_807505-01_1.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JXtJDB": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "You may also like",
+        "blog": "saachi-blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_mVRWwf",
+    "advanced_content_7a3GD7",
+    "rich_text_cRTUgx",
+    "text_and_image_Rk4tiG",
+    "text_and_image_Q8naqW",
+    "text_and_image_JXtJDB",
+    "main",
+    "blog-posts"
+  ]
+}

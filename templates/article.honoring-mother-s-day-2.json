@@ -1,0 +1,196 @@
+{
+  "sections": {
+    "advanced_content_7a3GD7": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nF6TnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_18.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        },
+        "liquid_XbR369": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Carly Giacoio<\/h2>\n<p>The author<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nF6TnD",
+        "liquid_XbR369"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_mVRWwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zb9bdB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "HONORING MOTHER’S DAY 2024",
+            "title_size": 79,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/roseroma-1635428910466_5658212f-227b-4cdc-9fee-ffec6b0bc66d.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zb9bdB"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_cRTUgx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mc6gYD": {
+          "type": "heading",
+          "settings": {
+            "title": "HONORING MOTHER’S DAY"
+          }
+        },
+        "text_9dckrD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In a world where grace meets grit, kindness dances with determination, and love illuminates the way, there’s a force like no other — the force of motherhood. With Mother’s Day approaching, it’s a time to honor the incredible moms like you who not only shape our lives and families but also leave an indelible mark on our communities, showing us the true power of motherhood. <br\/><br\/>Every day should celebrate moms for their boundless love, unwavering support, and endless sacrifices. We sincerely thank all the remarkable moms this Mother's Day.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mc6gYD",
+        "text_9dckrD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_Rk4tiG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_5_374f320c-aa54-4bb7-bb79-30a1b5ba9d5a.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "THE SAACHI STORY OF MOTHERHOOD",
+        "text": "<p>At<strong>SAACHI<\/strong>, our journey began two decades ago when Rose Ajmera, our founder, challenged the norms of American fashion.<strong>SAACHI<\/strong>emerged from her desire to represent her Indian heritage authentically, blending traditional embroidery with contemporary style and inspiring a new wave of fashion. Today, we offer everything from kimonos to cardigans, elegant necklaces, bracelets, and jewelry — elegance made for every day, night, and occasion.<br\/><br\/>As a woman who immigrated to America from India, our founder, Rose Ajmera, combined traditional Indian embroidery with the American fashion market with a modern flair, Saachi is a woman-owned business, and we celebrate mothers' strength and resilience everywhere.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Q8naqW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_6_4365aa46-0d57-48fc-bdc9-65342ece6af5.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "WOOLEN SCARF: A WARM HUG",
+        "text": "<p>From our<a href=\"https:\/\/saachistyle.com\/collections\/scarves-and-wraps\" target=\"_blank\"><span style=\"text-decoration:underline\">elegant silk scarves<\/span><\/a>to our<a href=\"https:\/\/saachistyle.com\/collections\/cardigans\" target=\"_blank\"><span style=\"text-decoration:underline\">lush, handmade cardigans<\/span><\/a>at<strong>SAACHI<\/strong>, we believe mothers should feel as unique as their impact on our world. Because we are a business run by two influential mothers, we understand the importance of looking at and feeling the part. Our luxurious yet timeless collections, from kimonos to jewelry to cardigans, allow our mothers to feel as elegant as they are on the inside and the outside. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JXtJDB": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_7_627ebd2e-f321-4a33-baea-5aa9e0828cd9.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "THANKS FOR BEING A MOM",
+        "text": "<p>So, here’s to all the moms who inspire us with their grace, empower us with their strength, and fill our lives with love.<br\/><br\/>Treat yourself, a friend, or another fellow mom to the gift of timeless elegance from<strong>SAACHI<\/strong>this Mother’s Day. May your day be brimming with love, laughter, and cherished moments. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "image_hero": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "You may also like",
+        "blog": "saachi-blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "advanced_content_7a3GD7",
+    "slideshow_mVRWwf",
+    "rich_text_cRTUgx",
+    "text_and_image_Rk4tiG",
+    "text_and_image_Q8naqW",
+    "text_and_image_JXtJDB",
+    "main",
+    "blog-posts"
+  ]
+}
